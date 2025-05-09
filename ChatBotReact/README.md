@@ -18,7 +18,7 @@ This is a chatbot web app built with **React** (frontend) and **.NET API** (back
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Bina28/ChatBot.git
+git clone https://github.com/Bina28/Chatbot.git
 cd your-rep
 ```
 ### 2. Set up your API Key and Model (Required!)
