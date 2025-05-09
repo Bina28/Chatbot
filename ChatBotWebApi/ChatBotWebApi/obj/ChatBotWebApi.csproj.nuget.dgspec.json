@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj": {}
+    "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj": {
+    "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj",
         "projectName": "ChatBotWebApi",
-        "projectPath": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj",
+        "projectPath": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj",
         "packagesPath": "C:\\Users\\dyako\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\obj\\",
+        "outputPath": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

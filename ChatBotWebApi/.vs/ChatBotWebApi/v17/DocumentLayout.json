@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\openaiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\openaiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\chatbotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\chatbotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\services\\ichatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\openaiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\openaiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\chatbotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\chatbotwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\services\\ichatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\services\\ichatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\studyprojects\\chatbot\\chatbotwebapi\\chatbotwebapi\\chatbotwebapi.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|c:\\users\\dyako\\onedrive\\skrivebord\\chatbot\\chatbotwebapi\\chatbotwebapi\\chatbotwebapi.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0843F56C-22EB-4325-89C7-AB2B631BC3C4}|ChatBotWebApi\\ChatBotWebApi.csproj|solutionrelative:chatbotwebapi\\chatbotwebapi.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -50,48 +50,24 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Controllers\\ApiController.cs",
-              "RelativeDocumentMoniker": "ChatBotWebApi\\Controllers\\ApiController.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Controllers\\ApiController.cs",
-              "RelativeToolTip": "ChatBotWebApi\\Controllers\\ApiController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T13:46:23.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChatBotWebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj",
-              "RelativeDocumentMoniker": "ChatBotWebApi\\ChatBotWebApi.csproj",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj",
-              "RelativeToolTip": "ChatBotWebApi\\ChatBotWebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T15:10:09.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "ChatBotWebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\appsettings.json",
               "RelativeToolTip": "ChatBotWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-08T13:53:48.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "OpenAiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\OpenAiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\OpenAiConfig.cs",
               "RelativeDocumentMoniker": "ChatBotWebApi\\OpenAiConfig.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\OpenAiConfig.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\OpenAiConfig.cs",
               "RelativeToolTip": "ChatBotWebApi\\OpenAiConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,49 +75,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Program.cs",
               "RelativeDocumentMoniker": "ChatBotWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Program.cs",
               "RelativeToolTip": "ChatBotWebApi\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T13:44:49.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T13:44:49.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ChatGptService.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Services\\ChatGptService.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Services\\ChatGptService.cs",
               "RelativeDocumentMoniker": "ChatBotWebApi\\Services\\ChatGptService.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Services\\ChatGptService.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Services\\ChatGptService.cs",
               "RelativeToolTip": "ChatBotWebApi\\Services\\ChatGptService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAvwCIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwCkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T13:47:07.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ChatRequest.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Models\\ChatRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Models\\ChatRequest.cs",
               "RelativeDocumentMoniker": "ChatBotWebApi\\Models\\ChatRequest.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Models\\ChatRequest.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Models\\ChatRequest.cs",
               "RelativeToolTip": "ChatBotWebApi\\Models\\ChatRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:49:26.359Z"
+              "WhenOpened": "2025-05-08T16:49:26.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "ChatBotWebApi\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "ChatBotWebApi\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:46:23.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatBotWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj",
+              "RelativeDocumentMoniker": "ChatBotWebApi\\ChatBotWebApi.csproj",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj",
+              "RelativeToolTip": "ChatBotWebApi\\ChatBotWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T15:10:09.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IChatGptService.cs",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Services\\IChatGptService.cs",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Services\\IChatGptService.cs",
               "RelativeDocumentMoniker": "ChatBotWebApi\\Services\\IChatGptService.cs",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\Services\\IChatGptService.cs",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\Services\\IChatGptService.cs",
               "RelativeToolTip": "ChatBotWebApi\\Services\\IChatGptService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ChatBotWebApi.csproj.Backup.tmp",
-              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj.Backup.tmp",
               "RelativeDocumentMoniker": "ChatBotWebApi\\ChatBotWebApi.csproj.Backup.tmp",
-              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\StudyProjects\\ChatBot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\dyako\\OneDrive\\Skrivebord\\Chatbot\\ChatBotWebApi\\ChatBotWebApi\\ChatBotWebApi.csproj.Backup.tmp",
               "RelativeToolTip": "ChatBotWebApi\\ChatBotWebApi.csproj.Backup.tmp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
