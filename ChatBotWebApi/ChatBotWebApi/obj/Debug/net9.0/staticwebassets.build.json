@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "52EISMvm4vimacOK/64qo3hnhwx0RTHkQDtwPHjM23s=",
+  "Source": "ChatBotWebApi",
+  "BasePath": "_content/ChatBotWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
